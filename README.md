@@ -2,6 +2,8 @@
 
 A standalone Vite + React + TypeScript application demonstrating **AG Grid Community (free tier)** capabilities with mocked server-side operations.
 
+**🌐 Live Demo:** [https://ag-grid-demo-three.vercel.app/](https://ag-grid-demo-three.vercel.app/)
+
 ## Features Demonstrated
 
 ✅ **Infinite Scroll Pagination** - Loads 10 users at a time from a dataset of 1000 mock users  
